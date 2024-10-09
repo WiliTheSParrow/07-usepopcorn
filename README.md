@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+## UsePopcorn 🍿
+
+### Thinking in React: Components, Composition and Reusability
+
+#### Repo created for the Udemy course: [The Ultimate React Course 2024: React, Redux & More](https://www.udemy.com/course/the-ultimate-react-course), Section 6: State events and forms
+
+<!-- # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -67,4 +73,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify) -->
