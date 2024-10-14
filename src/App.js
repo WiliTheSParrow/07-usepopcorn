@@ -66,12 +66,24 @@ export default function App() {
         <Box>
           <MovieList movies={movies} />
         </Box>
-        {/* <WatchedBox /> */}
         <Box>
           <WatchedSummary watched={watched} />
           <WatchedMovieList watched={watched} />
         </Box>
       </Main>
+
+      {/* Example of using elements as a prop */}
+      {/* <Main>
+        <Box element={<MovieList movies={movies} />} />
+        <Box
+          element={
+            <>
+              <WatchedSummary watched={watched} />
+              <WatchedMovieList watched={watched} />
+            </>
+          }
+        />
+      </Main> */}
     </>
   );
 }
